@@ -1,3 +1,6 @@
+# 说明
+这个仓库为我参加 Nvidia-Alibaba-TensoRT-hackathon2021 比赛的代码，也可以查看我队友的仓库(fork)。
+
 # Ultra_Fast_Lane_Detection_TensorRT
 An ultra fast tiny model for lane detection, using onnx_parser, TensorRTAPI to accelerate. our model support for int8, dynamic input and profiling. (Nvidia-Alibaba-TensoRT-hackathon2021)<br/>
 这是一个基于TensorRT加速UFLD的repo，包含PyThon ONNX Parser以及C++ TensorRT API版本, 还包括Torch2TRT版本, 
